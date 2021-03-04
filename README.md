@@ -15,9 +15,9 @@
 <p align="center">
 <a href="https://github.com/gihanishara"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/gihanishara"><img title="Followers" src="https://img.shields.io/github/followers/gihanishara?color=blue&style=flat-square"></a>
-<a href="https://github.com/gihanishara"><img title="Stars" src="https://img.shields.io/github/stars/gihan2003/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/gihanishara"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/gihanishara"><img title="Watching" src="https://img.shields.io/github/watchers/gihan2003/infect?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/gihanishara"><img title="Stars" src="https://img.shields.io/github/stars/gihanishara/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/gihanishara"><img title="Forks" src="https://img.shields.io/github/forks/gihanishara/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/gihanishara"><img title="Watching" src="https://img.shields.io/github/watchers/gihanishara/infect?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/gihanishara"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
